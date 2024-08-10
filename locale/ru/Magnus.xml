@@ -1,0 +1,31 @@
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME" Language="ru_RU">
+		  <Text>Сырьевая экономика</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION" Language="ru_RU">
+		  <Text>Рудники, каменоломни, буровые вышки и платформы в этом городе дают +1 [ICON_Production] производства. Накапливается +1 ед. за ход наиболее современного открытого стратегического ресурса.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION" Language="ru_RU">
+		  <Text>Создание поселенцев в этом городе не уменьшает его [ICON_Citizen] население. Эти поселенцы получают +2 [ICON_Movement] ОП.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_NPK_NAME" Language="ru_RU">
+		  <Text>Научно-производственный комплекс</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_NPK_DESCRIPTION" Language="ru_RU">
+		  <Text>+5% [ICON_Production] производства и +5% [ICON_Science] науки в этом городе. Бонус за соседство промышленной зоны даёт не только [ICON_Production] производство, но и [ICON_Science] науку.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION" Language="ru_RU">
+		  <Text>Город получает +10 к [ICON_Production] производству и -10 к [ICON_Gold] золоту за каждое здание в промышленной зоне.</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION" Language="ru_RU">
+		  <Text>Внутренние [ICON_TradeRoute] торговые пути из этого города дают +2 [ICON_Food] пищи и +2 [ICON_Production] производства. Внутренние [ICON_TradeRoute] торговые пути в этот город дают +2 [ICON_Food] пищи и +2 [ICON_Production] производства в пункте отправления.</Text>
+		</Replace>
+
+		<!-- <Replace Tag="LOC_GOVERNOR_INDUSTRIALIST_SPECIALIST_PRODUCTION_NAME" Language="ru_RU">
+		  <Text>+10 [ICON_Production] специалистам</Text>
+		</Replace> -->
+
+	</LocalizedText>
+</GameData>

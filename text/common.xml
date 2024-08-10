@@ -1,0 +1,5 @@
+<GameData>
+	<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+		<Text>Gain 2 [ICON_Governor] Governor promotions.  All your cities not on your original [ICON_Capital] Capital's continent with a [ICON_Governor] Governor gain +15% [ICON_Production] Production, +15% [ICON_Faith] Faith and +15% [ICON_Gold] Gold. Must be built adjacent to a Government Plaza.</Text>
+	</Row>
+</GameData>

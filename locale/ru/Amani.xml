@@ -1,36 +1,4 @@
 <GameData>
-	<BaseGameText>
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MILITARY_AID_NAME">
-			<Text>MILITARY_AID</Text>
-		</Row>
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MILITARY_AID_DESCRIPTION">
-			<Text>MILITARY_AID</Text>
-		</Row>
-		<Row Tag="LOC_AMBASSADOR_CITY_FRIENDLY_COMBAT_BONUS_DESCRIPTION">
-			<Text>+5</Text>
-		</Row>
-
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_SATELLITE_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_AMBASSADOR_SATELLITE_NAME</Text>
-		</Row>
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_SATELLITE_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_AMBASSADOR_SATELLITE_DESCRIPTION</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_HAS_SATELLITE_NAME">
-			<Text>LOC_PLAYER_HAS_SATELLITE_NAME</Text>
-		</Row>
-		<Row Tag="LOC_AMBASSADOR_SATELLITE_COMBAT_BONUS_DESCRIPTION">
-			<Text>+ AMBASSADOR</Text>
-		</Row>
-
-		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_DELEGATIONS">
-			<Text>{Value : number +#.#;-#.#} от делегаций</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_EMBASSIES">
-			<Text>{Value : number +#.#;-#.#} от посольств</Text>
-		</Row>
-	</BaseGameText>
-
 	<LocalizedText>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MILITARY_AID_NAME" Language="ru_RU">
 		  <Text>Протекторат</Text>
@@ -51,12 +19,6 @@
 		<!-- <Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_SATELLITE_DESCRIPTION" Language="ru_RU">
 		  <Text>При назначении в город-государство его сюзерен получает бонус в зависимости от типа города-государства.[NEWLINE]Научный: +1 [ICON_Science] науки во всех городах с кампусом за каждых четырёх послов.[NEWLINE]Культурный: +1 [ICON_GreatPerson] ОВЛ во всех зданиях театральной площади за каждые пять послов.[NEWLINE]Религиозный: +2 [ICON_FAITH] веры за каждого посла.[NEWLINE]Торговый: +1 [ICON_GOLD] золота для всех [ICON_TradeRoute] торговых путей за каждых двух послов.[NEWLINE]Промышленный: +1% [ICON_Production] производства во всех городах за каждого посла.[NEWLINE]Военный: +1 к [ICON_Strength] боевой мощи за каждых четырёх послов.</Text>
 		</Replace> -->
-		<Replace Tag="LOC_PLAYER_HAS_SATELLITE_NAME" Language="ru_RU">
-		  <Text>Служебное здание губернатора-дипломата</Text>
-		</Replace>
-		<Replace Tag="LOC_AMBASSADOR_SATELLITE_COMBAT_BONUS_DESCRIPTION" Language="ru_RU">
-			<Text>+ к боевой мощи от губернатора-протектора</Text>
-		</Replace>
 
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME" Language="ru_RU">
 		  <Text>Дипломатическая разведка</Text>

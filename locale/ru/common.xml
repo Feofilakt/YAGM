@@ -1,10 +1,4 @@
 <GameData>
-	<BaseGameText>
-		<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
-			<Text></Text>
-		</Row>
-	</BaseGameText>
-
 	<LocalizedText>
 		<Replace Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION" Language="ru_RU">
 			<Text>Дает 2 повышения [ICON_Governor] губернатора. Все ваши города с [ICON_Governor] губернаторами не на вашем первоначальном континенте получают +15% [ICON_Production] производства, +15% [ICON_Faith] веры и +15% [ICON_Gold] золота. Можно построить только рядом с площадью правительства.</Text>
