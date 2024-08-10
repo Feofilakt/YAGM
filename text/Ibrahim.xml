@@ -1,34 +1,27 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME</Text>
+			<Text>Beylerbeyi</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION</Text>
+			<Text>While established in a foreign city, all units producing in that city come under your control.</Text>
 		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_PASHA_DESCRIPTION" Language="ru_RU">
-			<Text>[ICON_Production] Производство всех военных юнитов в городе увеличивается на 25%.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_PASHA_DESCRIPTION" Language="en_US">
+			<Text>+25% [ICON_Production] Production to all military units in the city.</Text>
 		</Replace>
 
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_DESCRIPTION" Language="ru_RU">
-			<Text>Все дружественные юниты в бою на территории города получают +7 [ICON_Strength] к боевой мощи.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_DESCRIPTION" Language="en_US">
+			<Text>All friendly units fighting within the city's territory gain +7 [ICON_Strength] Combat Strength.</Text>
 		</Replace>
 
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME" Language="ru_RU">
-			<Text>Бейлербей</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_DESCRIPTION" Language="en_US">
+			<Text>When established in a foreign [ICON_Capital] Capital, [ICON_STAT_GRIEVANCE] Grievances from the city owner against you are reduced by 1 more per turn. Your Alliance Points with the owner increase an extra .5 per turn.</Text>
 		</Replace>
-
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION" Language="ru_RU">
-			<Text>При назначении в город другого государства все создаваемые в этом городе военные юниты переходят под ваш контроль.</Text>
-		</Replace>
-
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_DESCRIPTION" Language="ru_RU">
-			<Text>Если находится в [ICON_Capital] столице другого государства, уменьшает [ICON_STAT_GRIEVANCE] претензии его правителя к вам на 1 ед. за ход и приносит дополнительно 0,5 очка союза за ход.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION" Language="ru_RU">
+		
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION" Language="en_US">
 			<Text></Text>
 		</Replace>
 

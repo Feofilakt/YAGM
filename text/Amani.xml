@@ -4,7 +4,7 @@
 			<Text>Protectorate</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MILITARY_AID_DESCRIPTION">
-			<Text>While established in a city-state, gives it +5 [ICON_Strength] defence. Friendly units on its territory gain +5 [ICON_Strength] Combat Strength. Accumulate its Strategic resources. When suzerain receive double the amount of accumulated strategic resources.</Text>
+			<Text>While established in a city-state, gives it +5 [ICON_Strength] defence. Friendly units within the city's territory gain +5 [ICON_Strength] Combat Strength. Accumulate its Strategic resources. When suzerain receive double the amount of accumulated strategic resources.</Text>
 		</Row>
 		<Row Tag="LOC_AMBASSADOR_CITY_FRIENDLY_COMBAT_BONUS_DESCRIPTION">
 			<Text>+5 from governor with "Protectorate" promotion</Text>
