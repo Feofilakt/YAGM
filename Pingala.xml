@@ -1,0 +1,19 @@
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_DESCRIPTION.</Text>
+		</Row>
+	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_NAME" Language="ru_RU">
+		  <Text>Научное искусство</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CAMPUS_THEATRE_DESCRIPTION" Language="ru_RU">
+		  <Text>Бонусы за соседство кампуса и театральной площади в этом городе дают одновременно и [ICON_Science] науку, и [ICON_Culture] культуру.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

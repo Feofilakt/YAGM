@@ -1,0 +1,97 @@
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_DESCRIPTION.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_URBANISTICS_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_URBANISTICS_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_URBANISTICS_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_URBANISTICS_DESCRIPTION.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AGRICULTURE_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_AGRICULTURE_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AGRICULTURE_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_AGRICULTURE_DESCRIPTION.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH_GOVERNOR">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE_GOVERNOR">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD_GOVERNOR">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE_GOVERNOR">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION_GOVERNOR">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent district.</Text>
+		</Row>
+
+	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME" Language="ru_RU">
+		  <Text>Архитектор</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION" Language="ru_RU">
+		  <Text>При строительстве районов и чудес света [ICON_Production] производство в городе увеличивается на 25%.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_REINFORCED_INFRASTRUCTURE_DESCRIPTION" Language="ru_RU">
+		  <Text>Улучшения, здания и районы в этом городе не могут быть повреждены природными явлениями. Улучшенные или занятые городом клетки с речными поймами и вулканическим пеплом дают +2 [ICON_Production] производства.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_NAME" Language="ru_RU">
+			<Text>Планировка</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_DISTRICTS_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>Все районы в этом городе получают дополнительный стандартный бонус за соседство с другим районом.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION" Language="ru_RU">
+		  <Text>Можно строить улучшение «Городской парк» (дает [ICON_Gold] золото, [ICON_CULTURE] культуру, [ICON_Amenities] довольство, повышает престиж соседних клеток). Если Лян находится в городе, городские парки дают дополнительно +2 [ICON_CULTURE] культуры. Можно построить на любом ландшафте. Можно построить на болоте.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_URBANISTICS_NAME" Language="ru_RU">
+			<Text>Урбанистика</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_URBANISTICS_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Housing] жилья, +1 [ICON_Amenities] довольства и +1 [ICON_Food] пищи за каждый специализированный район и чудо света в этом городе.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_AGRICULTURE_NAME" Language="ru_RU">
+			<Text>Мелиорация</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_AGRICULTURE_DESCRIPTION" Language="ru_RU">
+			<Text>В этом городе клетки пустынь (кроме поймы рек) и тундры получают +1 [ICON_Food] пищи. Оазисы получают +1 [ICON_Production] производства и +1 [ICON_Gold] золота.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION" Language="ru_RU">
+		  <Text>Позволяет строителям создавать рыбные промыслы.[NEWLINE]+1 [ICON_Food] пищи. +1 [ICON_Production] производства, если рядом находится хотя бы одна рыбацкая лодка.[NEWLINE]Можно построить только на клетках побережья. Нельзя построить рядом с другим рыбным промыслом.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION" Language="ru_RU">
+		  <Text>Уникальное [ICON_Governor] губернаторское улучшение. Можно построить в империи с назначенным губернатором-землемером с повышением «Парки и развлечения». Дает +2 [ICON_Gold] золота. +2 престижа соседним клеткам. +1 [ICON_CULTURE] культуры за соседство с водой (река, озеро, побережье, оазис). Дополнительное золото по мере продвижения по дереву социальных институтов. Город получает +1 [ICON_Amenities] довольства за первый построенный городской парк. +2 [ICON_CULTURE] культуры, если губернатор с повышением «Парки и развлечения» находится в городе. Нельзя построить рядом с другим городским парком. Можно построить на любом ландшафте. Можно построить на болоте.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DISTRICT_DISTRICT_1_FAITH_GOVERNOR" Language="ru_RU">
+			<Text>+{1_num} [ICON_Faith] веры за соседние районы от губернатора.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE_GOVERNOR" Language="ru_RU">
+			<Text>+{1_num} [ICON_Science] науки за соседние районы от губернатора.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DISTRICT_1_GOLD_GOVERNOR" Language="ru_RU">
+			<Text>+{1_num} [ICON_Gold] золота за соседние районы от губернатора.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DISTRICT_1_CULTURE_GOVERNOR" Language="ru_RU">
+			<Text>+{1_num} [ICON_Culture] культуры за соседние районы от губернатора.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION_GOVERNOR" Language="ru_RU">
+			<Text>+{1_num} [ICON_Production] производства за соседние районы от губернатора.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

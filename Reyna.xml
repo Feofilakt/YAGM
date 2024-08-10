@@ -1,0 +1,42 @@
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION.</Text>
+		</Row>
+	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION" Language="ru_RU">
+		  <Text>Ускоряется приобретение новых клеток в городе на 20%. Cтоимость их покупки уменьшается на 20%.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION" Language="ru_RU">
+		  <Text>Бонусы за соседство от центра коммерции и гавани в этом городе удваиваются. Клетки с редкими ресурсами получают +2 [ICON_Gold] золота.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION" Language="ru_RU">
+		  <Text>В этом городе все клетки с лесами и тропическими лесами получают +2 [ICON_Gold] золота и дают +1 престижа соседним клеткам.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION" Language="ru_RU">
+		  <Text>+2 [ICON_Gold] золота за ход за каждого [ICON_Citizen] жителя города. +4 [ICON_Gold] золота за ход за каждый иностранный [ICON_TradeRoute] торговый путь, проходящий через этот город.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_NAME" Language="ru_RU">
+		  <Text>Экономическое чудо|Экономического чуда|Экономическому чуду|Экономическое чудо|Экономическим чудом|Экономическому чуду</Text>
+		  <Gender>feminine</Gender>
+		  <Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION" Language="ru_RU">
+		  <Text>Во время золотого века город получает +25% ко всей непищевой продукции.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME" Language="ru_RU">
+			<Text>Экспорт морепродуктов</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION" Language="ru_RU">
+			<Text>Все клетки побережья и озера в городе получают +2 [ICON_Gold] золота.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION" Language="ru_RU">
+		  <Text>Позволяет покупать районы за [ICON_Gold] золото во всех городах.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

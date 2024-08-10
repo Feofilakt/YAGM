@@ -1,0 +1,34 @@
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION.</Text>
+		</Row>
+	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION" Language="ru_RU">
+		  <Text>+3 [ICON_Faith] веры за центр города и каждый специализированный район.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME" Language="ru_RU">
+			<Text>Отшельники</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Faith] веры и +2 [ICON_CULTURE] культуры, если в этом городе есть чудо природы. +1 [ICON_Faith] веры и +1 [ICON_CULTURE] культуры за каждую клетку гор или чуда природы.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION" Language="ru_RU">
+		  <Text>На клетках города все ваши юниты полностью исцеляются за один ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="ru_RU">
+		  <Text>Религиозное влияние города на соседние города усиливается на 100%. Город получает +2% [ICON_Faith] веры за каждого последователя религии.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION" Language="ru_RU">
+		  <Text>Город игнорирует влияние и боевые эффекты религий, основанных другими игроками. +10 [ICON_Religion] к религиозной силе в теологической баталии на клетках города.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION" Language="ru_RU">
+		  <Text>Позволяет покупать районы за [ICON_FAITH] веру во всех ваших городах с губернаторами.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

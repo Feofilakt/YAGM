@@ -1,0 +1,36 @@
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME">
+			<Text>LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION">
+			<Text>LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION</Text>
+		</Row>
+	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_PASHA_DESCRIPTION" Language="ru_RU">
+			<Text>[ICON_Production] Производство всех военных юнитов в городе увеличивается на 25%.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_DESCRIPTION" Language="ru_RU">
+			<Text>Все дружественные юниты в бою на территории города получают +7 [ICON_Strength] к боевой мощи.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_NAME" Language="ru_RU">
+			<Text>Бейлербей</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION" Language="ru_RU">
+			<Text>При назначении в город другого государства все создаваемые в этом городе военные юниты переходят под ваш контроль.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_DESCRIPTION" Language="ru_RU">
+			<Text>Если находится в [ICON_Capital] столице другого государства, уменьшает [ICON_STAT_GRIEVANCE] претензии его правителя к вам на 1 ед. за ход и приносит дополнительно 0,5 очка союза за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION" Language="ru_RU">
+			<Text></Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

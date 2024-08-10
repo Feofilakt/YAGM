@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d19d4181-7afb-4723-909f-bc62cd6f6871" version="1">
+	<Properties>
+		<Name>Yet another governors mod</Name>
+		<Stability>Alfa</Stability>
+		<Description>Yet another governors mod (YAGM) is a complete rework of governors.</Description>
+		<Authors>Feofilakt Femistoklov (Slav)</Authors>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+
+ 	<InGameActions>
+		<AddGameplayScripts id="YAGM_Lua">
+			<File>YAGM_common.lua</File>
+		</AddGameplayScripts>
+		
+		<UpdateDatabase id="YAGM_DB">
+			<Properties>
+				<LoadOrder>1000</LoadOrder>
+			</Properties>
+			<File>common.sql</File>
+			<File>Reyna.sql</File>
+			<File>Victor.sql</File>
+			<File>Amani.sql</File>
+			<File>Magnus.sql</File>
+			<File>Moksha.sql</File>
+			<File>Liang.sql</File>
+			<File>Pingala.sql</File>
+			<File>Ibrahim.sql</File>
+		</UpdateDatabase>
+		
+		<UpdateText id="YAGM_Text">
+			<Properties>
+				<LoadOrder>1001</LoadOrder>
+			</Properties>
+			<File>Reyna.xml</File>
+			<File>Victor.xml</File>
+			<File>Amani.xml</File>
+			<File>Magnus.xml</File>
+			<File>Moksha.xml</File>
+			<File>Liang.xml</File>
+			<File>Pingala.xml</File>
+			<File>Ibrahim.xml</File>
+		</UpdateText>
+		
+		<ImportFiles id="YAGM_UI">
+		  <Properties>
+			<LoadOrder>1001</LoadOrder>
+		  </Properties>
+		  <File>ui/GovernorDetailsPanel.xml</File>
+		  <File>ui/GovernorDetailsPanel.lua</File>
+		  <File>ui/GovernorPanel.xml</File>
+		</ImportFiles>
+	</InGameActions>
+
+	<FrontEndActions>
+		<UpdateText id="YAGM_Text">
+			<Properties>
+				<LoadOrder>1001</LoadOrder>
+			</Properties>
+			<File>Reyna.xml</File>
+			<File>Victor.xml</File>
+			<File>Amani.xml</File>
+			<File>Magnus.xml</File>
+			<File>Moksha.xml</File>
+			<File>Liang.xml</File>
+			<File>Pingala.xml</File>
+			<File>Ibrahim.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	
+	<Files>
+		<File>common.sql</File>
+		<File>YAGM_common.lua</File>
+		<File>Reyna.sql</File>
+		<File>Victor.sql</File>
+		<File>Amani.sql</File>
+		<File>Magnus.sql</File>
+		<File>Moksha.sql</File>
+		<File>Liang.sql</File>
+		<File>Pingala.sql</File>
+		<File>Ibrahim.sql</File>
+		<File>Reyna.xml</File>
+		<File>Victor.xml</File>
+		<File>Amani.xml</File>
+		<File>Magnus.xml</File>
+		<File>Moksha.xml</File>
+		<File>Liang.xml</File>
+		<File>Pingala.xml</File>
+		<File>Ibrahim.xml</File>
+		<File>ui/GovernorDetailsPanel.xml</File>
+		<File>ui/GovernorDetailsPanel.lua</File>
+		<File>ui/GovernorPanel.xml</File>
+	</Files>
+</Mod>
