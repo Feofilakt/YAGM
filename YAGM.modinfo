@@ -8,11 +8,11 @@
 		<CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 
- 	<InGameActions>
+	<InGameActions>
 		<AddGameplayScripts id="YAGM_Lua">
 			<File>YAGM_common.lua</File>
 		</AddGameplayScripts>
-		
+
 		<UpdateDatabase id="YAGM_DB">
 			<Properties>
 				<LoadOrder>1000</LoadOrder>
@@ -27,29 +27,39 @@
 			<File>Pingala.sql</File>
 			<File>Ibrahim.sql</File>
 		</UpdateDatabase>
-		
+
 		<UpdateText id="YAGM_Text">
 			<Properties>
 				<LoadOrder>1001</LoadOrder>
 			</Properties>
-			<File>common.xml</File>
-			<File>Reyna.xml</File>
-			<File>Victor.xml</File>
-			<File>Amani.xml</File>
-			<File>Magnus.xml</File>
-			<File>Moksha.xml</File>
-			<File>Liang.xml</File>
-			<File>Pingala.xml</File>
-			<File>Ibrahim.xml</File>
+			<File>text/common.xml</File>
+			<File>text/Reyna.xml</File>
+			<File>text/Victor.xml</File>
+			<File>text/Amani.xml</File>
+			<File>text/Magnus.xml</File>
+			<File>text/Moksha.xml</File>
+			<File>text/Liang.xml</File>
+			<File>text/Pingala.xml</File>
+			<File>text/Ibrahim.xml</File>
+
+			<File>locale/ru/common.xml</File>
+			<File>locale/ru/Reyna.xml</File>
+			<File>locale/ru/Victor.xml</File>
+			<File>locale/ru/Amani.xml</File>
+			<File>locale/ru/Magnus.xml</File>
+			<File>locale/ru/Moksha.xml</File>
+			<File>locale/ru/Liang.xml</File>
+			<File>locale/ru/Pingala.xml</File>
+			<File>locale/ru/Ibrahim.xml</File>
 		</UpdateText>
-		
+
 		<ImportFiles id="YAGM_UI">
-		  <Properties>
-			<LoadOrder>1001</LoadOrder>
-		  </Properties>
-		  <File>ui/GovernorDetailsPanel.xml</File>
-		  <File>ui/GovernorDetailsPanel.lua</File>
-		  <File>ui/GovernorPanel.xml</File>
+			<Properties>
+				<LoadOrder>1001</LoadOrder>
+			</Properties>
+			<File>ui/GovernorDetailsPanel.xml</File>
+			<File>ui/GovernorDetailsPanel.lua</File>
+			<File>ui/GovernorPanel.xml</File>
 		</ImportFiles>
 	</InGameActions>
 
@@ -58,18 +68,28 @@
 			<Properties>
 				<LoadOrder>1001</LoadOrder>
 			</Properties>
-			<File>common.xml</File>
-			<File>Reyna.xml</File>
-			<File>Victor.xml</File>
-			<File>Amani.xml</File>
-			<File>Magnus.xml</File>
-			<File>Moksha.xml</File>
-			<File>Liang.xml</File>
-			<File>Pingala.xml</File>
-			<File>Ibrahim.xml</File>
+			<File>text/common.xml</File>
+			<File>text/Reyna.xml</File>
+			<File>text/Victor.xml</File>
+			<File>text/Amani.xml</File>
+			<File>text/Magnus.xml</File>
+			<File>text/Moksha.xml</File>
+			<File>text/Liang.xml</File>
+			<File>text/Pingala.xml</File>
+			<File>text/Ibrahim.xml</File>
+
+			<File>locale/ru/common.xml</File>
+			<File>locale/ru/Reyna.xml</File>
+			<File>locale/ru/Victor.xml</File>
+			<File>locale/ru/Amani.xml</File>
+			<File>locale/ru/Magnus.xml</File>
+			<File>locale/ru/Moksha.xml</File>
+			<File>locale/ru/Liang.xml</File>
+			<File>locale/ru/Pingala.xml</File>
+			<File>locale/ru/Ibrahim.xml</File>
 		</UpdateText>
 	</FrontEndActions>
-	
+
 	<Files>
 		<File>common.sql</File>
 		<File>YAGM_common.lua</File>
@@ -81,15 +101,27 @@
 		<File>Liang.sql</File>
 		<File>Pingala.sql</File>
 		<File>Ibrahim.sql</File>
-		<File>common.xml</File>
-		<File>Reyna.xml</File>
-		<File>Victor.xml</File>
-		<File>Amani.xml</File>
-		<File>Magnus.xml</File>
-		<File>Moksha.xml</File>
-		<File>Liang.xml</File>
-		<File>Pingala.xml</File>
-		<File>Ibrahim.xml</File>
+
+		<File>text/common.xml</File>
+		<File>text/Reyna.xml</File>
+		<File>text/Victor.xml</File>
+		<File>text/Amani.xml</File>
+		<File>text/Magnus.xml</File>
+		<File>text/Moksha.xml</File>
+		<File>text/Liang.xml</File>
+		<File>text/Pingala.xml</File>
+		<File>text/Ibrahim.xml</File>
+
+		<File>locale/ru/common.xml</File>
+		<File>locale/ru/Reyna.xml</File>
+		<File>locale/ru/Victor.xml</File>
+		<File>locale/ru/Amani.xml</File>
+		<File>locale/ru/Magnus.xml</File>
+		<File>locale/ru/Moksha.xml</File>
+		<File>locale/ru/Liang.xml</File>
+		<File>locale/ru/Pingala.xml</File>
+		<File>locale/ru/Ibrahim.xml</File>
+
 		<File>ui/GovernorDetailsPanel.xml</File>
 		<File>ui/GovernorDetailsPanel.lua</File>
 		<File>ui/GovernorPanel.xml</File>
