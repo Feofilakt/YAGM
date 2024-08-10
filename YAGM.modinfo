@@ -32,6 +32,7 @@
 			<Properties>
 				<LoadOrder>1001</LoadOrder>
 			</Properties>
+			<File>common.xml</File>
 			<File>Reyna.xml</File>
 			<File>Victor.xml</File>
 			<File>Amani.xml</File>
@@ -57,6 +58,7 @@
 			<Properties>
 				<LoadOrder>1001</LoadOrder>
 			</Properties>
+			<File>common.xml</File>
 			<File>Reyna.xml</File>
 			<File>Victor.xml</File>
 			<File>Amani.xml</File>
@@ -79,6 +81,7 @@
 		<File>Liang.sql</File>
 		<File>Pingala.sql</File>
 		<File>Ibrahim.sql</File>
+		<File>common.xml</File>
 		<File>Reyna.xml</File>
 		<File>Victor.xml</File>
 		<File>Amani.xml</File>
