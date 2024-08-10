@@ -1,43 +1,31 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_NPK_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_NPK_NAME</Text>
+			<Text>Research and Production Complex</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_NPK_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_NPK_DESCRIPTION.</Text>
+			<Text>+5% [ICON_Production] Production and +5% [ICON_Science] Science in this city. Industrial Zone district provide [ICON_Science] Science equal to its [ICON_Production] Production bonus.</Text>
 		</Row>
-		<!-- <Row Tag="LOC_GOVERNOR_INDUSTRIALIST_SPECIALIST_PRODUCTION_NAME">
-			<Text>LOC_GOVERNOR_INDUSTRIALIST_SPECIALIST_PRODUCTION_NAME.</Text>
-		</Row> -->
 	</BaseGameText>
 
 	<LocalizedText>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME" Language="ru_RU">
-		  <Text>Сырьевая экономика</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME" Language="en_US">
+			<Text>Resource-based economy</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION" Language="ru_RU">
-		  <Text>Рудники, каменоломни, буровые вышки и платформы в этом городе дают +1 [ICON_Production] производства. Накапливается +1 ед. за ход наиболее современного открытого стратегического ресурса.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION" Language="ru_RU">
-		  <Text>Создание поселенцев в этом городе не уменьшает его [ICON_Citizen] население. Эти поселенцы получают +2 [ICON_Movement] ОП.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_NPK_NAME" Language="ru_RU">
-		  <Text>Научно-производственный комплекс</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_NPK_DESCRIPTION" Language="ru_RU">
-		  <Text>+5% [ICON_Production] производства и +5% [ICON_Science] науки в этом городе. Бонус за соседство промышленной зоны даёт не только [ICON_Production] производство, но и [ICON_Science] науку.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION" Language="ru_RU">
-		  <Text>Город получает +10 к [ICON_Production] производству и -10 к [ICON_Gold] золоту за каждое здание в промышленной зоне.</Text>
-		</Replace>
-		
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION" Language="ru_RU">
-		  <Text>Внутренние [ICON_TradeRoute] торговые пути из этого города дают +2 [ICON_Food] пищи и +2 [ICON_Production] производства. Внутренние [ICON_TradeRoute] торговые пути в этот город дают +2 [ICON_Food] пищи и +2 [ICON_Production] производства в пункте отправления.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for each Mine, Quarry and Oil Well in this city. Accumulate +1 of the most advanced revealed strategic resource.</Text>
 		</Replace>
 
-		<!-- <Replace Tag="LOC_GOVERNOR_INDUSTRIALIST_SPECIALIST_PRODUCTION_NAME" Language="ru_RU">
-		  <Text>+10 [ICON_Production] специалистам</Text>
-		</Replace> -->
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION" Language="en_US">
+			<Text>Settlers trained in the city do not consume a [ICON_Citizen] Population. This Settlers get +2 [ICON_Movement] Movement points.</Text>
+		</Replace>
 
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION" Language="en_US">
+			<Text>This city gets +10 [ICON_Production] Production and -10 [ICON_Gold] Gold for each building in the Industrial Zone.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes from this city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production. Your [ICON_TradeRoute] Trade Routes ending here provide +2 [ICON_Food] Food and +2 [ICON_Production] Production to their starting city.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
