@@ -17,25 +17,28 @@
 			<Text>+4 influence points per turn towards earning [ICON_Envoy] Envoys.</Text>
 		</Row>
 
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
-			<Text>Diplomatic intelligence</Text>
-		</Row>
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
-			<Text>You get +2 [ICON_Science] science and +2 [ICON_Culture] culture from each Delegation or Embassy from a foreign civilization to you.</Text>
-		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_DELEGATIONS">
 			<Text>{Value : number +#.#;-#.#} from Delegations</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_EMBASSIES">
 			<Text>{Value : number +#.#;-#.#} from Embassies</Text>
 		</Row>
-
-		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
-			<Text>Other cities within 9 tiles and not owned by you lose 4 Loyalty per turn.</Text>
-		</Row>
-
-		<Row Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_DESCRIPTION">
-			<Text>All your Spies operate at 1 level above normal.</Text>
-		</Row>
 	</BaseGameText>
+
+	<LocalizedText>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME" Language="en_US">
+			<Text>Diplomatic intelligence</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION" Language="en_US">
+			<Text>You get +2 [ICON_Science] science and +2 [ICON_Culture] culture from each Delegation or Embassy from a foreign civilization to you.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION" Language="en_US">
+			<Text>Other cities within 9 tiles and not owned by you lose 4 Loyalty per turn.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_DESCRIPTION" Language="en_US">
+			<Text>All your Spies operate at 1 level above normal.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>
