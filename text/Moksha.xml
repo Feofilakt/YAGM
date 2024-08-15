@@ -1,34 +1,25 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME</Text>
+			<Text>Hermits</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION.</Text>
+			<Text>+2 [ICON_Faith] Faith and +2 [ICON_CULTURE] Culture if there is a natural wonder in this city. +1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture for every mountain or natural wonder tile in this city.</Text>
 		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION" Language="ru_RU">
-		  <Text>+3 [ICON_Faith] веры за центр города и каждый специализированный район.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION" Language="en_US">
+		  <Text>+3 [ICON_Faith] Faith for city center and every specialty district in this city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_NAME" Language="ru_RU">
-			<Text>Отшельники</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="en_US">
+		  <Text>Religious pressure to adjacent cities is 100% stronger from this city. City gains +2% [ICON_Faith] Faith for every Religion follower.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION" Language="ru_RU">
-			<Text>+2 [ICON_Faith] веры и +2 [ICON_CULTURE] культуры, если в этом городе есть чудо природы. +1 [ICON_Faith] веры и +1 [ICON_CULTURE] культуры за каждую клетку гор или чуда природы.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION" Language="en_US">
+		  <Text>City ignores religious pressure from Religions not founded by the [ICON_Governor] Governor's player. +10 [ICON_Religion] Religious Strength in theological combat in tiles of this city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION" Language="ru_RU">
-		  <Text>На клетках города все ваши юниты полностью исцеляются за один ход.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="ru_RU">
-		  <Text>Религиозное влияние города на соседние города усиливается на 100%. Город получает +2% [ICON_Faith] веры за каждого последователя религии.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION" Language="ru_RU">
-		  <Text>Город игнорирует влияние и боевые эффекты религий, основанных другими игроками. +10 [ICON_Religion] к религиозной силе в теологической баталии на клетках города.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION" Language="ru_RU">
-		  <Text>Позволяет покупать районы за [ICON_FAITH] веру во всех ваших городах с губернаторами.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION" Language="en_US">
+		  <Text>Allows to purchase districts with [ICON_FAITH] Faith in all cities with an assigned Governor.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
