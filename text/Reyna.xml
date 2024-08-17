@@ -1,42 +1,36 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME</Text>
+			<Text>Seafood export</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION.</Text>
+			<Text>All coast and lake tiles in this city gain +2 [ICON_Gold] Gold.</Text>
 		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION" Language="ru_RU">
-		  <Text>Ускоряется приобретение новых клеток в городе на 20%. Cтоимость их покупки уменьшается на 20%.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION" Language="en_US">
+			<Text>Acquire new tiles in city 20% faster. Tiles purchase cost decreased by 20%.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION" Language="ru_RU">
-		  <Text>Бонусы за соседство от центра коммерции и гавани в этом городе удваиваются. Клетки с редкими ресурсами получают +2 [ICON_Gold] золота.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION" Language="en_US">
+			<Text>Double adjacency bonuses from Commercial Hubs and Harbors in the city. Tiles with luxury resources gain +2 [ICON_Gold] Gold.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION" Language="ru_RU">
-		  <Text>В этом городе все клетки с лесами и тропическими лесами получают +2 [ICON_Gold] золота и дают +1 престижа соседним клеткам.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION" Language="en_US">
+			<Text>This city receives +2 [ICON_Gold] Gold from each forest and rainforest tiles. Tiles adjacent to them receive +1 Appeal in this city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION" Language="ru_RU">
-		  <Text>+2 [ICON_Gold] золота за ход за каждого [ICON_Citizen] жителя города. +4 [ICON_Gold] золота за ход за каждый иностранный [ICON_TradeRoute] торговый путь, проходящий через этот город.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] Gold per turn for each [ICON_Citizen] Citizen in the city. +4 [ICON_Gold] Gold per turn from each foreign [ICON_TradeRoute] Trade Route passing through the city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_NAME" Language="ru_RU">
-		  <Text>Экономическое чудо|Экономического чуда|Экономическому чуду|Экономическое чудо|Экономическим чудом|Экономическому чуду</Text>
-		  <Gender>feminine</Gender>
-		  <Plurality>2</Plurality>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_NAME" Language="en_US">
+			<Text>Economic miracle|Economic miracle|Economic miracle|Economic miracle|Economic miracle|Economic miracle</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION" Language="ru_RU">
-		  <Text>Во время золотого века город получает +25% ко всей непищевой продукции.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION" Language="en_US">
+			<Text>During the golden age this city gains +25% to each non-food yields.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_NAME" Language="ru_RU">
-			<Text>Экспорт морепродуктов</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_COAST_LAKE_GOLD_DESCRIPTION" Language="ru_RU">
-			<Text>Все клетки побережья и озера в городе получают +2 [ICON_Gold] золота.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION" Language="ru_RU">
-		  <Text>Позволяет покупать районы за [ICON_Gold] золото во всех городах.</Text>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION" Language="en_US">
+			<Text>Allows all cities to purchase districts with [ICON_Gold] Gold.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
