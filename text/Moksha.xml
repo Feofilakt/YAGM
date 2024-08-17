@@ -13,7 +13,7 @@
 		  <Text>+3 [ICON_Faith] Faith for city center and every specialty district in this city.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="en_US">
-		  <Text>Religious pressure to adjacent cities is 100% stronger from this city. City gains +2% [ICON_Faith] Faith for every Religion follower.</Text>
+		  <Text>Religious pressure to adjacent cities is 100% stronger from this city. City receives +2% [ICON_Faith] Faith for every Religion follower.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION" Language="en_US">
 		  <Text>City ignores religious pressure from Religions not founded by the [ICON_Governor] Governor's player. +10 [ICON_Religion] Religious Strength in theological combat in tiles of this city.</Text>

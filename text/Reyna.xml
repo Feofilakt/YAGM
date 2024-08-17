@@ -27,7 +27,7 @@
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION" Language="en_US">
-			<Text>During the golden age this city gains +25% to each non-food yields.</Text>
+			<Text>During the golden age this city receives +25% to each non-food yields.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION" Language="en_US">
 			<Text>Allows all cities to purchase districts with [ICON_Gold] Gold.</Text>
