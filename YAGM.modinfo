@@ -2,7 +2,7 @@
 <Mod id="d19d4181-7afb-4723-909f-bc62cd6f6871" version="1">
 	<Properties>
 		<Name>Yet another governors mod</Name>
-		<Stability>Alfa</Stability>
+		<Stability>Beta</Stability>
 		<Description>Yet another governors mod (YAGM) is a complete rework of governors.</Description>
 		<Authors>Feofilakt Femistoklov (Slav)</Authors>
 		<CompatibleVersions>2.0</CompatibleVersions>
