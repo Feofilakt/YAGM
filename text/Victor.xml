@@ -1,42 +1,29 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_UNITPROMOS_AND_RESOURCES_NAME">
-			<Text>UNITPROMOS_AND_RESOURCES</Text>
+		  <Text>Combat readiness</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_UNITPROMOS_AND_RESOURCES_DESCRIPTION">
-			<Text>UNITPROMOS_AND_RESOURCES.</Text>
+		  <Text>Military units trained in this city start with additional free promotion. Accumulate +1 of the most advanced revealed strategic resource.</Text>
 		</Row>
 	
 		<Row Tag="LOC_GOVERNOR_PROMOTION_POLICE_NAME">
-			<Text>LOC_GOVERNOR_PROMOTION_POLICE_NAME.</Text>
+		  <Text>Secret police</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_POLICE_DESCRIPTION">
-			<Text>LOC_GOVERNOR_PROMOTION_POLICE_DESCRIPTION.</Text>
+		  <Text>Enemy Spies operate at 2 levels below normal in this city and 1 level below normal in other cities.</Text>
 		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION" Language="ru_RU">
-		  <Text>Ваши юниты на территории города получают +5 к [ICON_Strength] боевой мощи. Все ваши города в пределах 9 клеток получают +4 к лояльности за ход.</Text>
+		  <Text>Units within the city's territory get +5 [ICON_Strength] Combat Strength. Your other cities within 9 tiles gain +4 Loyalty per turn towards your civilization.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION" Language="ru_RU">
-		  <Text>Город невозможно взять в осаду. +50% [ICON_Production] производства к стенам. Город может провести дополнительную [ICON_Ranged] дальнобойную атаку за ход.</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_UNITPROMOS_AND_RESOURCES_NAME" Language="ru_RU">
-		  <Text>Боевая готовность</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_UNITPROMOS_AND_RESOURCES_DESCRIPTION" Language="ru_RU">
-		  <Text>Подготовленные в этом городе военные юниты сразу получают дополнительное бесплатное повышение. Накапливается +1 ед. за ход наиболее современного открытого стратегического ресурса. ̶Д̶л̶я̶ ̶п̶о̶д̶г̶о̶т̶о̶в̶к̶и̶ ̶ю̶н̶и̶т̶о̶в̶ ̶в̶ ̶э̶т̶о̶м̶ ̶г̶о̶р̶о̶д̶е̶ ̶т̶р̶е̶б̶у̶е̶т̶с̶я̶ ̶в̶д̶в̶о̶е̶ ̶м̶е̶н̶ь̶ш̶е̶ ̶с̶т̶р̶а̶т̶е̶г̶и̶ч̶е̶с̶к̶и̶х̶ ̶р̶е̶с̶у̶р̶с̶о̶в̶.̶ ̶  </Text>
+		  <Text>City cannot be put under siege. +50% [ICON_Production] Production towards walls. City gains an additional [ICON_Ranged] Ranged Strike per turn.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION" Language="ru_RU">
-		  <Text>+6 к силе и +1 к дальности [ICON_Ranged] дальнобойной атаки города. +2 [ICON_Amenities] довольства за каждый уровень стен. При грабеже районов и улучшений города юниты теряют 2 [ICON_Movement] ОП.</Text>
-		</Replace>
-		
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_POLICE_NAME" Language="ru_RU">
-		  <Text>Тайная полиция</Text>
-		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_POLICE_DESCRIPTION" Language="ru_RU">
-		  <Text>Уровень вражеских шпионов, работающих в этом городе, снижается на 2, в других ваших городах - на 1.</Text>
+		  <Text>+6 power and +1 [ICON_Ranged] range to city strike. +2 [ICON_Amenities] Amenities for each level of walls. Enemy units pillaging city districts and tiles lose 2 [ICON_Movement] Movement points.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
