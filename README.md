@@ -2,12 +2,35 @@
 
 This is YAGM - Yet another governors mod for Civilization 6. The main goal is to make all the governors and their promotions desired, convenient to use and not frustrating. Not just Pingala as for now.
 
+![image](https://github.com/user-attachments/assets/c3676c42-f9bd-4097-9ac7-9afd3a063c74)
+
 ## Changes
 
 - Many promotions changed, some effects added and some removed. See screens, check descriptions in xml or right in the game.
 - Each governor has one more promotion (6 total instead of 5)
 - Casa de Contratación nerfed (2 extra promotion points instead of 3) to compensate their enlarged power
 - The Enlightenment and Mercantilism civics give promotion points to compensate the increased total number of promotions
+
+<details>
+  <summary><b>SCREENS</b></summary>
+  
+![image](https://github.com/user-attachments/assets/0e77b1fa-ef1a-4642-8de5-dca84547745b)
+
+![image](https://github.com/user-attachments/assets/bd3dff8e-4a9c-41c9-a7b4-a3c358281baf)
+
+![image](https://github.com/user-attachments/assets/3d38de4a-924a-44f3-a328-93878565c6cb)
+
+![image](https://github.com/user-attachments/assets/82d5d5f1-f44f-4ced-9725-d64a3955f67b)
+
+![image](https://github.com/user-attachments/assets/dcaba6f5-7e49-45c0-9d1d-5852528cb8c0)
+
+![image](https://github.com/user-attachments/assets/1e535c6e-fc46-4b03-accd-8117a56a88a4)
+
+![image](https://github.com/user-attachments/assets/e22222d2-58d8-49d0-bbd7-beccd51033df)
+
+![image](https://github.com/user-attachments/assets/fb3d1c8f-8a97-4b44-a6ae-62d27d29fc5f)
+
+</details>
 
 ## Balance
 
