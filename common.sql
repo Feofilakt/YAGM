@@ -20,3 +20,5 @@ INSERT OR IGNORE INTO CivicModifiers (CivicType, ModifierId) VALUES
 	('CIVIC_MERCANTILISM', 'CIVIC_GRANT_PLAYER_GOVERNOR_POINTS');
 
 UPDATE ModifierArguments SET Value=2 WHERE ModifierId='CONTRATACION_GOVERNOR_POINTS' AND Name='Delta';
+
+update UnitOperations set BaseProbability = 16 where OperationType = 'UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR';
