@@ -6,6 +6,9 @@
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BEYLERBEYI_DESCRIPTION">
 			<Text>While established in a foreign city, all units producing in that city come under your control.</Text>
 		</Row>
+		<Row Tag="LOC_VIZSOURCE_GOVERNOR_PROMOTION">
+			<Text>Governor promoted</Text>
+		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
@@ -22,7 +25,7 @@
 		</Replace>
 		
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION" Language="en_US">
-			<Text></Text>
+			<Text>+1 diplo visibility</Text>
 		</Replace>
 
 	</LocalizedText>
