@@ -21,7 +21,7 @@
 		</Replace>
 
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION" Language="en_US">
-			<Text>This city gets +10 [ICON_Production] Production and -10 [ICON_Gold] Gold for each building in the Industrial Zone.</Text>
+			<Text>This city gets +7 [ICON_Production] Production and -7 [ICON_Gold] Gold for the Industrial Zone and each building in it.</Text>
 		</Replace>
 
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION" Language="en_US">
