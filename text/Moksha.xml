@@ -4,13 +4,16 @@
 			<Text>Hermits</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION">
-			<Text>+2 [ICON_Faith] Faith and +2 [ICON_CULTURE] Culture if there is a natural wonder in this city. +1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture for every mountain or natural wonder tile in this city.</Text>
+			<Text>+3 [ICON_Faith] Faith and +3 [ICON_CULTURE] Culture if there is a natural wonder in this city. +1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture for every mountain or natural wonder tile in this city.</Text>
 		</Row>
 	</BaseGameText>
 
 	<LocalizedText>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION" Language="en_US">
 		  <Text>+3 [ICON_Faith] Faith for city center and every specialty district in this city.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION" Language="en_US">
+		  <Text>All [ICON_Governor] Governor's units heal fully in one turn in tiles of this city. Missionaries and Apostles are 10% cheaper to purchase in this city.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="en_US">
 		  <Text>Religious pressure to adjacent cities is 100% stronger from this city. City receives +2% [ICON_Faith] Faith for every Religion follower.</Text>

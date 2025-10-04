@@ -7,10 +7,10 @@
 			<Text>Отшельники</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_FAITH_CULTURE_DESCRIPTION" Language="ru_RU">
-			<Text>+2 [ICON_Faith] веры и +2 [ICON_CULTURE] культуры, если в этом городе есть чудо природы. +1 [ICON_Faith] веры и +1 [ICON_CULTURE] культуры за каждую клетку гор или чуда природы.</Text>
+			<Text>+3 [ICON_Faith] веры и +3 [ICON_CULTURE] культуры, если в этом городе есть чудо природы. +1 [ICON_Faith] веры и +1 [ICON_CULTURE] культуры за каждую клетку гор или чуда природы.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION" Language="ru_RU">
-		  <Text>На клетках города все ваши юниты полностью исцеляются за один ход.</Text>
+		  <Text>На клетках города все ваши юниты полностью исцеляются за один ход. Миссионеры и апостолы в этом городе стоят на 10% дешевле.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION" Language="ru_RU">
 		  <Text>Религиозное влияние города на соседние города усиливается на 100%. Город получает +2% [ICON_Faith] веры за каждого последователя религии.</Text>
